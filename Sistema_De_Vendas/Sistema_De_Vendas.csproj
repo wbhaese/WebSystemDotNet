@@ -86,6 +86,7 @@
       <LastGenOutput>Banco.cs</LastGenOutput>
     </Content>
     <Content Include="Login\default.aspx" />
+    <Content Include=".gitignore" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
