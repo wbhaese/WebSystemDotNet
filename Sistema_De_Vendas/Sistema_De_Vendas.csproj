@@ -87,6 +87,8 @@
     </Content>
     <Content Include="Login\default.aspx" />
     <Content Include=".gitignore" />
+    <Content Include="style\login.css" />
+    <Content Include="style\icon.png" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
