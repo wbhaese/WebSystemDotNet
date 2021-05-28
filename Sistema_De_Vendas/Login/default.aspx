@@ -23,7 +23,7 @@
 
                 <!-- Login Form -->
                 <div>
-                    <asp:TextBox ID="txtNomeUsuario" placeholder="User name" CssClass="fadeIn second" runat="server"></asp:TextBox>
+                    <asp:TextBox ID="txtNomeUsuario" placeholder="Username" CssClass="fadeIn second" runat="server"></asp:TextBox>
                     <asp:TextBox ID="txtSenha" placeholder="Password" TextMode="Password" CssClass="fadeIn third" runat="server"></asp:TextBox>
                     <asp:Button ID="btnLogin" runat="server" Text="Access" CssClass="fadeIn fourth" OnClick="btnLogin_Click" />
                 </div>
